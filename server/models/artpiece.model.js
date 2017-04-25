@@ -2,23 +2,18 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var ArtpieceSchema = new Schema({
+    subjectNumber: {
+        type: Number,
+        required: true
+    },
     subjectName: {
       type: String,
       required: true
     },
-    information: {
+    subjectFormal: {
       type: String,
       required: true
     },
-    isDisease: {
-        type: Boolean,
-        required: true
-    },
-    symptoms: {
-        type: String,
-        required: true
-    },
-    treatment: String,
     faveCount: {
         type: Number,
         default: 0

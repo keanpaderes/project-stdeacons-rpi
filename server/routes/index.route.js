@@ -6,6 +6,6 @@ router.get('/', function(req, res){
     res.send({hello:'Hello world!'});
 });
 
-router.use('/piece', artpieceRoutes);
+router.use('/pieces', artpieceRoutes);
 
 module.exports = router;
