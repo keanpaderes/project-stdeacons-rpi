@@ -16,7 +16,7 @@ app.use('/images', express.static(__dirname + '/../public/images'));
 app.use('/api', routes);
 
 app.use(function(req,res,next){
-    res.status(404).send("Not Found!");
+    res.status(404).send({message: "API URL Not Found!"});
 });
 
 module.exports = app;

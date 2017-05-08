@@ -1,7 +1,9 @@
 var express = require('express');
 var fs = require('fs');
 var url = require('url');
+var areaRoutes = require('./area.route');
 var artpieceRoutes = require('./artpiece.route');
+var locationRoutes = require('./location.route');
 var router = express.Router();
 
 router.get('/', function(req, res){
@@ -14,6 +16,8 @@ router.get('/', function(req, res){
     });
 });
 
+router.use('/areas', areaRoutes);
+router.use('/locations', locationRoutes);
 router.use('/pieces', artpieceRoutes);
 
 module.exports = router;

@@ -1,36 +1,54 @@
 var Artpiece = require('../models/artpiece.model');
 
 function getAll(res) {
+    skip = typeof skip !== 'undefined'? skip : 0;
+    limit = typeof limit !== 'undefined'? limit : 50;
+
     Artpiece.find()
-        .exec(function(err, subjs) {
-            if(err) res.send(err);
+        .sort({ createdAt: -1 })
+        .skip(skip)
+        .limit(limit)
+        .exec()
+        .then(function(subjs) {
             res.json(subjs);
+        })
+        .catch(function(err) {
+            res.status(404).send({message: err});
         });
 };
 
 module.exports = {
     getArtpieces: function(req, res, next) {
-        getAll(res);
+        var skip =
+            typeof req.body.skip !== 'undefined'? req.body.skip : 0;
+        var limit =
+            typeof req.body.limit !== 'undefined'? req.body.limit : 50;
+
+        getAll(res, skip, limit);
     },
     getArtpiece: function(req, res, next) {
         var id = req.query.id;
 
-        Artpiece.find({
-            subjectNumber: id
-        })
-        .exec(function(err, subj) {
-            if(err) res.send(err);
-            res.json(subj);
-        });
+        Artpiece.find({subjectNumber: id})
+            .exec()
+            .then(function(subj) {
+                res.json(subj);
+            })
+            .catch(function(err) {
+                res.status(404).send({message: err});
+            });
 
     },
     listArtpieces: function(req, res, next) {
         Artpiece.find()
             .select('subjectFormal')
             .sort({subjectNumber: 1})
-            .exec(function(err, names){
-                if(err) res.send(err);
+            .exec()
+            .then(function(names){
                 res.json(names);
+            })
+            .catch(function(err) {
+                res.status(404).send({message: err});
             });
     },
     postArtpiece: function(req, res, next) {
@@ -43,7 +61,7 @@ module.exports = {
 
         newArt.save(function (err) {
             if (err)
-                res.send(err);
+                res.status(404).send({message: err});
 
             // get and return all the todos after you create another
             getAll(res);

@@ -1,4 +1,6 @@
+var mongoose = require('mongoose');
 var Area = require('../models/area.model');
+var Artpiece = require('../models/artpiece.model');
 
 function getAll(res, skip, limit) {
     skip = typeof skip !== 'undefined'? skip : 0;
@@ -8,9 +10,12 @@ function getAll(res, skip, limit) {
         .sort({ createdAt: -1 })
         .skip(skip)
         .limit(limit)
-        .exec(function(err, areas) {
-            if(err) res.send(err);
-            res,json(areas);
+        .exec()
+        .then(function(areas) {
+            res.json(areas);
+        })
+        .catch(function(err) {
+            res.status(404).send({message: err});
         });
 }
 
@@ -23,28 +28,107 @@ module.exports = {
 
         getAll(res, skip, limit);
     },
-    getAreaById: function getAreaById(req, res, next) {
-        var id = req.query.id
+    getAreaByParams: function getAreaById(req, res, next) {
+        if(Object.keys(req.query)[0] !== 'id' &&
+            Object.keys(req.query)[0] !== 'name') {
+            res.status(412).send({
+                message: "Request failed due to wrong parameters. " +
+                 "Must be id or name."
+             });
+        } else {
+            switch(Object.keys(req.query)[0]) {
+                case 'id':
+                    var _id = req.query.id;
+                    Area.findById(mongoose.Types.ObjectId(_id))
+                        .exec()
+                        .then(function(area) {
+                            res.json(area);
+                        })
+                        .catch(function(err) {
+                            res.status(404).send({message: err});
+                        });
+                    break;
+                case 'name':
+                    var _name = req.query.name;
+                    Area.findOne({name: _name})
+                        .exec()
+                        .then(function(area) {
+                            res.json(area);
+                        })
+                        .catch(function(err) {
+                            res.status(404).send({message: err});
+                        });
+                    break;
+            };
+        }
+    },
+    postArea: function(req, res, next) {
+        var newArea = new Area({
+            name: req.body.name,
+            formalName: req.body.formalName
+        });
 
-        Area.findById(id)
-            .exec(function(err, area) {
-                if(err) return err;
-                return area;
+        newArea.save(function(err){
+            if(err)
+                res.status(404).send({message: err});
+
+            getAll(res);
+        });
+    },
+    addBeaconInfo: function(req, res, next) {
+        var beacon = {
+            beaconName: req.body.beaconName,
+            majMin: req.body.majMin,
+        };
+
+        Area.findOne({name: req.body.name})
+            .exec()
+            .then(function(area) {
+                area.beacons.push(beacon);
+                area.save(function(err) {
+                    if(err) res.status(404).send({message: err});
+
+                    getAll(res);
+                });
+            })
+            .catch(function(err) {
+                res.status(404).send({message: err});
             });
     },
-    getAreaByName: function getAreaByName(req, res, next) {
-        var name = req.body.name;
-        Area.find({
-            areaName: name
-        })
-        .exec(function(err, area) {
-                if(err) return err;
-                return area;
-            });
-    },
-    // postArea: function(req, res, next) {
-    //     var newArea = new Area({
-    //
-    //     });
-    // }
+    initializeApplication: function(req, res, next) {
+        if(Object.keys(req.query)[0] !== 'area') {
+            res.status(412).send({
+                message: "Request failed due to wrong parameters. " +
+                 "Must be id or name."
+             });
+        } else {
+            var list = [];
+            var _id = req.query.area;
+
+            Artpiece.find()
+                .select('subjectFormal')
+                .sort({subjectNumber: 1})
+                .exec()
+                .then(function(names){
+                    list = names;
+                })
+                .catch(function(err) {
+                    next(err);
+                });
+
+            Area.findById(mongoose.Types.ObjectId(_id))
+                .populate('locationList', 'name')
+                .select('locationList')
+                .exec()
+                .then(function(_locations) {
+                    res.json({
+                        names: list,
+                        locations: _locations.locationList
+                    });
+                })
+                .catch(function(err) {
+                    res.status(404).send({message: err});
+                });
+        }
+    }
 }

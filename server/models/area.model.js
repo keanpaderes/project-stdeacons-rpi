@@ -1,20 +1,20 @@
 var mongoose = require('mongoose');
-var Beacon = require('./beacon.model');
 var Schema = mongoose.Schema;
 
 var AreaSchema = new Schema({
     name: {
         type:  String,
+        unique: true,
         required: true
     },
-    numberOfBeacons: {
-        type: Number,
+    formalName: {
+        type:  String,
+        unique: true,
         required: true
     },
-    pieceList: [{
-        type: Schema.Types.ObjectId,
-        ref: 'Artpiece'
-    }],
+    beacons: { //JSON of beacons with beacon name and beacon id
+        type: Array
+    },
     locationList: [{
         type: Schema.Types.ObjectId,
         ref: 'Location'
