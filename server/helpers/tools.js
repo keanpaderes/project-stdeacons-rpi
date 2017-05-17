@@ -107,7 +107,7 @@ function _getAccuracyRange(accuracies) {
             return arr[prev] > cur ? prev: i;
         }, 0);
     var tallied = accuracies.filter(function (num){
- 		return Math.ceil( num ) > ( highestTally / 3 ) && Math.floor( num ) < ( highestTally * 3 );
+ 		return Math.ceil( num ) > ( highestTally / 2 ) && Math.floor( num ) < ( highestTally * 2 );
  	});
     var lowest = tallied[0], highest = lowest;
     for(var i = 0; i < tallied.length; i++) {
