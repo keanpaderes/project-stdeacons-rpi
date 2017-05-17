@@ -52,7 +52,11 @@ module.exports = {
                     break;
                 case 'name':
                     var _name = req.query.name;
-                    Location.findOne({name: _name})
+                    var area = req.query.area;
+                    Location.findOne({
+                        name: _name,
+                        _area: mongoose.Types.ObjectId(area)
+                    })
                         .exec()
                         .then(function(location) {
                             res.json(location);
@@ -90,7 +94,8 @@ module.exports = {
     },
     addAccRssi: function(req, res, next) {
         Location.findOne({
-            name: req.body.name
+            name: req.body.name,
+            _area: mongoose.Types.ObjectId(req.body.area)
         })
         .exec()
         .then(function(location) {
@@ -123,14 +128,59 @@ module.exports = {
             point.initialRSSIArray.push(
                 parseInt(req.body.rssi));
 
+            //update optimized values and ranges
+            point.optimizedAccuracy =
+                tools.optimizedAveraging(point.initialAccuracyArray);
+            point.accuracyRange =
+                tools.getAccuracyRange(point.initialAccuracyArray);
+            point.estimatedProximity =
+                tools.proximityEstimation(point.initialProximityArray);
+            point.prunedRSSI =
+                tools.rssiAveraging(point.initialRSSIArray);
+            point.rssiRange =
+                tools.getRssiRange(point.initialRSSIArray);
+
             location.save(function(err){
                 if(err) res.status(404).send({message: err});
 
                 res.json({
                     name: location.name,
-                    accuracy: location.initialAccuracyArray,
-                    proximity: location.initialProximityArray,
-                    rssi: location.initialRSSIArray
+                    pointA: {
+                        optimizedAccuracy:
+                            location.pointA.optimizedAccuracy,
+                        accuracyRange:
+                            location.pointA.accuracyRange,
+                        prunedRSSI:
+                            location.pointA.prunedRSSI,
+                        rssiRange:
+                            location.pointA.rssiRange,
+                        estimatedProximity:
+                            location.pointA.estimatedProximity
+                    },
+                    pointB: {
+                        optimizedAccuracy:
+                            location.pointB.optimizedAccuracy,
+                        accuracyRange:
+                            location.pointB.accuracyRange,
+                        prunedRSSI:
+                            location.pointB.prunedRSSI,
+                        rssiRange:
+                            location.pointB.rssiRange,
+                        estimatedProximity:
+                            location.pointB.estimatedProximity
+                    },
+                    pointC: {
+                        optimizedAccuracy:
+                            location.pointC.optimizedAccuracy,
+                        accuracyRange:
+                            location.pointC.accuracyRange,
+                        prunedRSSI:
+                            location.pointC.prunedRSSI,
+                        rssiRange:
+                            location.pointC.rssiRange,
+                        estimatedProximity:
+                            location.pointC.estimatedProximity
+                    }
                 });
             });
         })
@@ -156,8 +206,8 @@ module.exports = {
                                 location.pointA.initialProximityArray;
                             newObj.rssi =
                                 location.pointA.initialRSSIArray;
-                            newObj.oRssi = tools.rssiAveraging(newObj.rssi);
-                            newObj.opt = tools.optimizedAveraging(newObj.accuracy);
+                            newObj.oRssi = tools.getRssiRange(newObj.rssi);
+                            newObj.opt = tools.getAccuracyRange(newObj.accuracy);
                             newObj.oProx = tools.proximityEstimation(newObj.proximity);
                             retArr.push(newObj);
                             break;
@@ -169,8 +219,8 @@ module.exports = {
                                 location.pointB.initialProximityArray;
                             newObj.rssi =
                                 location.pointB.initialRSSIArray;
-                            newObj.oRssi = tools.rssiAveraging(newObj.rssi);
-                            newObj.opt = tools.optimizedAveraging(newObj.accuracy);
+                            newObj.oRssi = tools.getRssiRange(newObj.rssi);
+                            newObj.opt = tools.getAccuracyRange(newObj.accuracy);
                             newObj.oProx = tools.proximityEstimation(newObj.proximity);
                             retArr.push(newObj);
                             break;
@@ -182,8 +232,8 @@ module.exports = {
                                 location.pointC.initialProximityArray;
                             newObj.rssi =
                                 location.pointC.initialRSSIArray;
-                            newObj.oRssi = tools.rssiAveraging(newObj.rssi);
-                            newObj.opt = tools.optimizedAveraging(newObj.accuracy);
+                            newObj.oRssi = tools.getRssiRange(newObj.rssi);
+                            newObj.opt = tools.getAccuracyRange(newObj.accuracy);
                             newObj.oProx = tools.proximityEstimation(newObj.proximity);
                             retArr.push(newObj);
                             break;

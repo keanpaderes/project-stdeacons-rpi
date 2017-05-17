@@ -12,8 +12,10 @@ var LocationSchema = new Schema({
         initialProximityArray: [String],
         initialRSSIArray: [Number],
         optimizedAccuracy: Number,
+        accuracyRange: String,
+        estimatedProximity: String,
         prunedRSSI: Number,
-        estimatedProximity: String
+        rssiRange: String
     },
     pointB: {
         name: String,
@@ -21,8 +23,10 @@ var LocationSchema = new Schema({
         initialProximityArray: [String],
         initialRSSIArray: [Number],
         optimizedAccuracy: Number,
+        accuracyRange: String,
+        estimatedProximity: String,
         prunedRSSI: Number,
-        estimatedProximity: String
+        rssiRange: String
     },
     pointC: {
         name: String,
@@ -30,8 +34,10 @@ var LocationSchema = new Schema({
         initialProximityArray: [String],
         initialRSSIArray: [Number],
         optimizedAccuracy: Number,
+        accuracyRange: String,
+        estimatedProximity: String,
         prunedRSSI: Number,
-        estimatedProximity: String
+        rssiRange: String
     },
     _area: {
         type: Schema.Types.ObjectId,

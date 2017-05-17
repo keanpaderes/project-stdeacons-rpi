@@ -16,6 +16,14 @@ router.get('/', function(req, res){
     });
 });
 
+router.route('/range_logs')
+    .post(function(req, res) {
+        var filePath = __dirname + '/../../public/data/range_logs.txt';
+        fs.appendFile(filePath, req.body.string, function() {
+            res.json({msg: "Success!"});
+        });
+    });
+
 router.use('/areas', areaRoutes);
 router.use('/locations', locationRoutes);
 router.use('/pieces', artpieceRoutes);

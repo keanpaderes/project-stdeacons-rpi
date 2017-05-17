@@ -23,6 +23,7 @@ router.route('/gather')
     /* PUT '/api/locations/gather'
     * Add Accuracy and RSSI values of each point
     * @property {String} req.body.name - db name of the location.
+    * @property {String} req.body.area -area id where location belong.
     * @property {String} req.body.point - beacon point.
     * @property {Number} req.body.accuracy - beacon distance reading.
     * @property {String} req.body.proximity - beacon proximity reading.

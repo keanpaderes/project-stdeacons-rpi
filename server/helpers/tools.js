@@ -55,14 +55,14 @@ function tallyCount(num, usage) {
     return count;
 }
 
+function roundHundredths(num) {
+    return (Math.round(num*10000)/10000).toFixed(4);
+};
+
 function _optimizedAveraging(accuracies) {
 
     function getAvg(arr) {
         return arr.reduce(function(prev,curr){return prev+curr;}) / arr.length;
-    };
-
-    function roundHundredths(num) {
-        return (Math.round(num*10000)/10000).toFixed(4);
     };
 
     var highestTally = tallyCount(accuracies, 'floor').reduce(
@@ -101,8 +101,48 @@ function _proximityEstimation (proxs) {
     return getHighest(tallyCount(proxs, 'estimate'));
 }
 
+function _getAccuracyRange(accuracies) {
+    var highestTally = tallyCount(accuracies, 'floor').reduce(
+        function reduceHighestTally(prev, cur, i, arr) {
+            return arr[prev] > cur ? prev: i;
+        }, 0);
+    var tallied = accuracies.filter(function (num){
+ 		return Math.ceil( num ) > ( highestTally / 3 ) && Math.floor( num ) < ( highestTally * 3 );
+ 	});
+    var lowest = tallied[0], highest = lowest;
+    for(var i = 0; i < tallied.length; i++) {
+        if(tallied[i] < lowest)
+            lowest = tallied[i];
+        else if(tallied[i] > highest)
+            highest = tallied[i];
+    }
+    return roundHundredths(lowest).toString() + ',' + roundHundredths(highest).toString();
+}
+
+function _getRssiRange(rssis) {
+    function findPositionWithCount (arr) {
+        for(var i = 0; i < arr.length; i++) {
+            if(arr[i] > 1) {
+                return i;
+            }
+        }
+        return -1;
+    }
+    var tallied = tallyCount(rssis, 'negate');
+    var lowest = findPositionWithCount(tallied), highest = lowest;
+    for(var i = 0; i < tallied.length; i++) {
+        if(i > lowest && tallied[i] > 1)
+            highest = i;
+    }
+    lowest = lowest * -1;
+    highest = highest * -1;
+    return lowest.toString() + ',' + highest.toString();
+}
+
 module.exports = {
     optimizedAveraging: _optimizedAveraging,
     rssiAveraging: _rssiAveraging,
-    proximityEstimation: _proximityEstimation
+    proximityEstimation: _proximityEstimation,
+    getAccuracyRange: _getAccuracyRange,
+    getRssiRange: _getRssiRange
 }

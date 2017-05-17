@@ -117,13 +117,22 @@ module.exports = {
                 });
 
             Area.findById(mongoose.Types.ObjectId(_id))
-                .populate('locationList', 'name')
-                .select('locationList')
+                .populate('locationList',
+                    'name pointA.name pointB.name pointC.name ' +
+                    'pointA.optimizedAccuracy pointA.accuracyRange ' +
+                    'pointA.prunedRSSI pointA.rssiRange pointA.estimatedProximity ' +
+                    'pointB.optimizedAccuracy pointB.accuracyRange ' +
+                    'pointB.prunedRSSI pointB.rssiRange pointB.estimatedProximity ' +
+                    'pointC.optimizedAccuracy pointC.accuracyRange ' +
+                    'pointC.prunedRSSI pointC.rssiRange pointC.estimatedProximity'
+                )
+                .select('locationList beacons')
                 .exec()
-                .then(function(_locations) {
+                .then(function(_area) {
                     res.json({
                         names: list,
-                        locations: _locations.locationList
+                        beacons: _area.beacons,
+                        locations: _area.locationList
                     });
                 })
                 .catch(function(err) {
