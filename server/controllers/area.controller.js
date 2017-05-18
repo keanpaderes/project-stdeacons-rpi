@@ -127,6 +127,7 @@ module.exports = {
                     'pointC.prunedRSSI pointC.rssiRange pointC.estimatedProximity'
                 )
                 .select('locationList beacons')
+                .sort({created_at: 1})
                 .exec()
                 .then(function(_area) {
                     res.json({
