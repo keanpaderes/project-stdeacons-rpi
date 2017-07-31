@@ -1,0 +1,656 @@
+[18-05-2017-03-15-54],uID: 6b7f8aca-3e17-4f42-9466-0016e188289c, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.173257585929528,6.870525889014835,5.840312838520152, Loc Found? false
+[18-05-2017-03-15-54],uID: 6b7f8aca-3e17-4f42-9466-0016e188289c, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.173257585929528,6.870525889014835,5.840312838520152, Loc Found? loc2
+[18-05-2017-03-15-54],uID: 6b7f8aca-3e17-4f42-9466-0016e188289c, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.173257585929528,6.870525889014835,5.840312838520152, Loc Found? loc2
+[18-05-2017-03-19-39],uID: kean, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.522027282622963,6.442027917152615,13.77837276373446, Loc Found? loc1
+[18-05-2017-03-19-39],uID: kean, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.522027282622963,6.442027917152615,13.77837276373446, Loc Found? loc1
+[18-05-2017-03-19-39],uID: kean, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.522027282622963,6.442027917152615,13.77837276373446, Loc Found? loc1
+[18-05-2017-03-21-25],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.063987378623084,13.261607335974423,3.7499625503465794, Loc Found? false
+[18-05-2017-03-21-25],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.063987378623084,13.261607335974423,3.7499625503465794, Loc Found? false
+[18-05-2017-03-21-25],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.063987378623084,13.261607335974423,3.7499625503465794, Loc Found? false
+[18-05-2017-03-23-07],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8469369358980674,10.863420325721506,3.7443856134169997, Loc Found? false
+[18-05-2017-03-23-07],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8469369358980674,10.863420325721506,3.7443856134169997, Loc Found? false
+[18-05-2017-03-23-07],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8469369358980674,10.863420325721506,3.7443856134169997, Loc Found? false
+[18-05-2017-03-24-49],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.424186546103807,5.498923316345762,2.9174097053015666, Loc Found? false
+[18-05-2017-03-24-49],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.424186546103807,5.498923316345762,2.9174097053015666, Loc Found? false
+[18-05-2017-03-24-49],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.424186546103807,5.498923316345762,2.9174097053015666, Loc Found? loc3
+[18-05-2017-03-26-41],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.0486141703200533,7.741635816360223,3.3045563106661797, Loc Found? false
+[18-05-2017-03-26-41],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.0486141703200533,7.741635816360223,3.3045563106661797, Loc Found? false
+[18-05-2017-03-26-41],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.0486141703200533,7.741635816360223,3.3045563106661797, Loc Found? false
+[18-05-2017-03-28-23],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.116027267539125,5.627584808009593,7.477329499742478, Loc Found? loc1
+[18-05-2017-03-28-23],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.116027267539125,5.627584808009593,7.477329499742478, Loc Found? loc1
+[18-05-2017-03-28-23],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.116027267539125,5.627584808009593,7.477329499742478, Loc Found? loc1
+[18-05-2017-03-30-13],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.892922690278263,4.4760053325847435,2.8970993986991145, Loc Found? false
+[18-05-2017-03-30-13],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.892922690278263,4.4760053325847435,2.8970993986991145, Loc Found? false
+[18-05-2017-03-30-13],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.892922690278263,4.4760053325847435,2.8970993986991145, Loc Found? false
+[18-05-2017-03-37-21],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.793880629829213,1.3310279730992294,4.568258131877729, Loc Found? false
+[18-05-2017-03-37-21],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.793880629829213,1.3310279730992294,4.568258131877729, Loc Found? false
+[18-05-2017-03-37-21],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.793880629829213,1.3310279730992294,4.568258131877729, Loc Found? false
+[18-05-2017-03-37-21],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.793880629829213,1.3310279730992294,4.568258131877729, Loc Found? loc4
+[18-05-2017-03-39-05],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.527162822308031,1.9057832992074668,1.690358206376017, Loc Found? false
+[18-05-2017-03-39-05],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.527162822308031,1.9057832992074668,1.690358206376017, Loc Found? false
+[18-05-2017-03-39-05],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.527162822308031,1.9057832992074668,1.690358206376017, Loc Found? false
+[18-05-2017-03-39-05],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.527162822308031,1.9057832992074668,1.690358206376017, Loc Found? false
+[18-05-2017-03-40-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.331808343547898,1.7326655575349799,6.176127499088542, Loc Found? false
+[18-05-2017-03-40-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.331808343547898,1.7326655575349799,6.176127499088542, Loc Found? loc4
+[18-05-2017-03-40-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.331808343547898,1.7326655575349799,6.176127499088542, Loc Found? false
+[18-05-2017-03-40-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.331808343547898,1.7326655575349799,6.176127499088542, Loc Found? false
+[18-05-2017-03-42-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4044722785750956,11.91123402734818,6.308590564348543, Loc Found? false
+[18-05-2017-03-42-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4044722785750956,11.91123402734818,6.308590564348543, Loc Found? false
+[18-05-2017-03-42-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4044722785750956,11.91123402734818,6.308590564348543, Loc Found? false
+[18-05-2017-03-42-47],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4044722785750956,11.91123402734818,6.308590564348543, Loc Found? false
+[18-05-2017-03-44-29],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3403408317001166,8.171024684759734,6.862285213430743, Loc Found? loc1
+[18-05-2017-03-44-29],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3403408317001166,8.171024684759734,6.862285213430743, Loc Found? loc1
+[18-05-2017-03-44-29],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3403408317001166,8.171024684759734,6.862285213430743, Loc Found? loc1
+[18-05-2017-03-44-29],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3403408317001166,8.171024684759734,6.862285213430743, Loc Found? loc1
+[18-05-2017-03-46-24],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.34320667561483,5.550544314850221,3.164474414958628, Loc Found? false
+[18-05-2017-03-46-24],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.34320667561483,5.550544314850221,3.164474414958628, Loc Found? false
+[18-05-2017-03-46-24],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.34320667561483,5.550544314850221,3.164474414958628, Loc Found? loc3
+[18-05-2017-03-46-24],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.34320667561483,5.550544314850221,3.164474414958628, Loc Found? loc3
+[18-05-2017-03-48-09],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8220922743060646,12.430711265295814,4.890559303138784, Loc Found? false
+[18-05-2017-03-48-09],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8220922743060646,12.430711265295814,4.890559303138784, Loc Found? loc2
+[18-05-2017-03-48-09],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8220922743060646,12.430711265295814,4.890559303138784, Loc Found? loc2
+[18-05-2017-03-48-09],uID: kean, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.8220922743060646,12.430711265295814,4.890559303138784, Loc Found? loc2
+[18-05-2017-03-50-03],uID: kean, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.413395418426715,4.122830762181362,2.7764886598739267, Loc Found? false
+[18-05-2017-03-50-03],uID: kean, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.413395418426715,4.122830762181362,2.7764886598739267, Loc Found? false
+[18-05-2017-03-50-03],uID: kean, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.413395418426715,4.122830762181362,2.7764886598739267, Loc Found? loc3
+[18-05-2017-03-50-03],uID: kean, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.413395418426715,4.122830762181362,2.7764886598739267, Loc Found? loc3
+[18-05-2017-03-52-41],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.903135614706366,NaN,4.147555710035632, Loc Found? false
+[18-05-2017-03-52-41],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.903135614706366,NaN,4.147555710035632, Loc Found? false
+[18-05-2017-03-52-41],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.903135614706366,NaN,4.147555710035632, Loc Found? false
+[18-05-2017-03-52-41],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.903135614706366,NaN,4.147555710035632, Loc Found? false
+[18-05-2017-03-54-23],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.781643025029513,NaN,4.088819221263767, Loc Found? false
+[18-05-2017-03-54-23],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.781643025029513,NaN,4.088819221263767, Loc Found? false
+[18-05-2017-03-54-23],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.781643025029513,NaN,4.088819221263767, Loc Found? false
+[18-05-2017-03-54-23],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.781643025029513,NaN,4.088819221263767, Loc Found? false
+[18-05-2017-03-56-05],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.301490340245435,1.1174540326491293,6.615924807291232, Loc Found? false
+[18-05-2017-03-56-05],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.301490340245435,1.1174540326491293,6.615924807291232, Loc Found? false
+[18-05-2017-03-56-05],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.301490340245435,1.1174540326491293,6.615924807291232, Loc Found? false
+[18-05-2017-03-56-05],uID: kean, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.301490340245435,1.1174540326491293,6.615924807291232, Loc Found? loc4
+[18-05-2017-04-22-04],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.758517559023493,2.8380302030721594,NaN, Loc Found? false
+[18-05-2017-04-22-04],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.758517559023493,2.8380302030721594,NaN, Loc Found? false
+[18-05-2017-04-22-04],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.758517559023493,2.8380302030721594,NaN, Loc Found? false
+[18-05-2017-04-22-04],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.758517559023493,2.8380302030721594,NaN, Loc Found? false
+[18-05-2017-04-19-46],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.228537192635329,NaN,1.4930856435484288, Loc Found? false
+[18-05-2017-04-19-46],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.228537192635329,NaN,1.4930856435484288, Loc Found? false
+[18-05-2017-04-19-46],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.228537192635329,NaN,1.4930856435484288, Loc Found? false
+[18-05-2017-04-19-46],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.228537192635329,NaN,1.4930856435484288, Loc Found? false
+[18-05-2017-04-20-56],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 9.201445327260132,11.160330180586296,4.1803324293456665, Loc Found? false
+[18-05-2017-04-20-56],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 9.201445327260132,11.160330180586296,4.1803324293456665, Loc Found? false
+[18-05-2017-04-20-56],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 9.201445327260132,11.160330180586296,4.1803324293456665, Loc Found? false
+[18-05-2017-04-20-56],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 9.201445327260132,11.160330180586296,4.1803324293456665, Loc Found? false
+[18-05-2017-04-23-44],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.918868758175558,3.725929518641272,2.561441108747799, Loc Found? false
+[18-05-2017-04-23-44],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.918868758175558,3.725929518641272,2.561441108747799, Loc Found? false
+[18-05-2017-04-23-44],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.918868758175558,3.725929518641272,2.561441108747799, Loc Found? false
+[18-05-2017-04-23-44],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.918868758175558,3.725929518641272,2.561441108747799, Loc Found? false
+[18-05-2017-04-22-36],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.5926651778657877,2.335625321363154,NaN, Loc Found? false
+[18-05-2017-04-22-36],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.5926651778657877,2.335625321363154,NaN, Loc Found? false
+[18-05-2017-04-22-36],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.5926651778657877,2.335625321363154,NaN, Loc Found? false
+[18-05-2017-04-22-36],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.5926651778657877,2.335625321363154,NaN, Loc Found? false
+[18-05-2017-04-24-37],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.882641386998394,1.4046304826510336,0.9902895078553717, Loc Found? false
+[18-05-2017-04-24-38],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.882641386998394,1.4046304826510336,0.9902895078553717, Loc Found? false
+[18-05-2017-04-24-38],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.882641386998394,1.4046304826510336,0.9902895078553717, Loc Found? false
+[18-05-2017-04-24-38],uID: PJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.882641386998394,1.4046304826510336,0.9902895078553717, Loc Found? false
+[18-05-2017-04-30-33],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.9927376449859375,6.843650797866543,2.8129990273655068, Loc Found? false
+[18-05-2017-04-30-33],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.9927376449859375,6.843650797866543,2.8129990273655068, Loc Found? false
+[18-05-2017-04-30-33],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.9927376449859375,6.843650797866543,2.8129990273655068, Loc Found? false
+[18-05-2017-04-30-33],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.9927376449859375,6.843650797866543,2.8129990273655068, Loc Found? false
+[18-05-2017-04-37-20],uID: , Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.98833095889338,3.544012113405032,3.153854824005523, Loc Found? false
+[18-05-2017-04-37-20],uID: , Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.98833095889338,3.544012113405032,3.153854824005523, Loc Found? loc3
+[18-05-2017-04-37-20],uID: , Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.98833095889338,3.544012113405032,3.153854824005523, Loc Found? false
+[18-05-2017-04-37-20],uID: , Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.98833095889338,3.544012113405032,3.153854824005523, Loc Found? loc3
+[18-05-2017-04-35-00],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 10.770414293747871,11.74710932184674,7.0013500079881466, Loc Found? false
+[18-05-2017-04-35-00],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 10.770414293747871,11.74710932184674,7.0013500079881466, Loc Found? false
+[18-05-2017-04-35-00],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 10.770414293747871,11.74710932184674,7.0013500079881466, Loc Found? false
+[18-05-2017-04-35-00],uID: Jara Andrion, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 10.770414293747871,11.74710932184674,7.0013500079881466, Loc Found? false
+[18-05-2017-04-37-28],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.541512150217097,NaN,8.67842898685844, Loc Found? false
+[18-05-2017-04-37-28],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.541512150217097,NaN,8.67842898685844, Loc Found? false
+[18-05-2017-04-37-28],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.541512150217097,NaN,8.67842898685844, Loc Found? false
+[18-05-2017-04-37-28],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.541512150217097,NaN,8.67842898685844, Loc Found? false
+[18-05-2017-04-40-36],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.822227590942157,3.027540329730616,NaN, Loc Found? false
+[18-05-2017-04-40-36],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.822227590942157,3.027540329730616,NaN, Loc Found? false
+[18-05-2017-04-40-36],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.822227590942157,3.027540329730616,NaN, Loc Found? false
+[18-05-2017-04-40-36],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.822227590942157,3.027540329730616,NaN, Loc Found? false
+[18-05-2017-04-39-09],uID: JARA ANDRION, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.196357735611014,NaN,5.782776361858798, Loc Found? false
+[18-05-2017-04-39-09],uID: JARA ANDRION, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.196357735611014,NaN,5.782776361858798, Loc Found? false
+[18-05-2017-04-39-09],uID: JARA ANDRION, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.196357735611014,NaN,5.782776361858798, Loc Found? false
+[18-05-2017-04-39-09],uID: JARA ANDRION, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.196357735611014,NaN,5.782776361858798, Loc Found? false
+[18-05-2017-04-42-17],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.088628114273868,3.327416750662619,1.1521573086922765, Loc Found? false
+[18-05-2017-04-42-17],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.088628114273868,3.327416750662619,1.1521573086922765, Loc Found? false
+[18-05-2017-04-42-17],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.088628114273868,3.327416750662619,1.1521573086922765, Loc Found? false
+[18-05-2017-04-42-17],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.088628114273868,3.327416750662619,1.1521573086922765, Loc Found? false
+[18-05-2017-04-40-17],uID: Jonathan, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.983428447181221,4.160995166436584,1.5719331435356871, Loc Found? false
+[18-05-2017-04-40-17],uID: Jonathan, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.983428447181221,4.160995166436584,1.5719331435356871, Loc Found? false
+[18-05-2017-04-40-17],uID: Jonathan, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.983428447181221,4.160995166436584,1.5719331435356871, Loc Found? false
+[18-05-2017-04-40-17],uID: Jonathan, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.983428447181221,4.160995166436584,1.5719331435356871, Loc Found? false
+[18-05-2017-06-02-50],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,3.781248924570089,4.864369403100706, Loc Found? false
+[18-05-2017-06-02-50],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,3.781248924570089,4.864369403100706, Loc Found? false
+[18-05-2017-06-02-50],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,3.781248924570089,4.864369403100706, Loc Found? false
+[18-05-2017-06-02-50],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,3.781248924570089,4.864369403100706, Loc Found? false
+[18-05-2017-04-44-00],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.8146920611422415,4.346737930146536,1.3975821148755585, Loc Found? false
+[18-05-2017-04-44-00],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.8146920611422415,4.346737930146536,1.3975821148755585, Loc Found? false
+[18-05-2017-04-44-00],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.8146920611422415,4.346737930146536,1.3975821148755585, Loc Found? false
+[18-05-2017-04-44-00],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.8146920611422415,4.346737930146536,1.3975821148755585, Loc Found? false
+[18-05-2017-04-41-35],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.523843339246079,NaN,6.299965885887249, Loc Found? false
+[18-05-2017-04-41-35],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.523843339246079,NaN,6.299965885887249, Loc Found? false
+[18-05-2017-04-41-35],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.523843339246079,NaN,6.299965885887249, Loc Found? false
+[18-05-2017-04-41-35],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 5.523843339246079,NaN,6.299965885887249, Loc Found? false
+[18-05-2017-04-41-58],uID: Jonathan, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.583898004693272,11.656347941912426,1.7232020039261142, Loc Found? false
+[18-05-2017-04-41-59],uID: Jonathan, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.583898004693272,11.656347941912426,1.7232020039261142, Loc Found? false
+[18-05-2017-04-41-59],uID: Jonathan, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.583898004693272,11.656347941912426,1.7232020039261142, Loc Found? false
+[18-05-2017-04-41-59],uID: Jonathan, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.583898004693272,11.656347941912426,1.7232020039261142, Loc Found? false
+[18-05-2017-06-04-34],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1351861249270971,4.157351360315652,3.534819889303926, Loc Found? false
+[18-05-2017-06-04-34],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1351861249270971,4.157351360315652,3.534819889303926, Loc Found? false
+[18-05-2017-06-04-34],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1351861249270971,4.157351360315652,3.534819889303926, Loc Found? false
+[18-05-2017-06-04-34],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1351861249270971,4.157351360315652,3.534819889303926, Loc Found? false
+[18-05-2017-04-45-40],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.9914159056125476,4.584357932244408,1.983337481830249, Loc Found? false
+[18-05-2017-04-45-40],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.9914159056125476,4.584357932244408,1.983337481830249, Loc Found? loc3
+[18-05-2017-04-45-40],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.9914159056125476,4.584357932244408,1.983337481830249, Loc Found? false
+[18-05-2017-04-45-40],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.9914159056125476,4.584357932244408,1.983337481830249, Loc Found? loc3
+[18-05-2017-04-43-40],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7055039833764718,4.095743360121884,2.766859552974824, Loc Found? false
+[18-05-2017-04-43-40],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7055039833764718,4.095743360121884,2.766859552974824, Loc Found? false
+[18-05-2017-04-43-40],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7055039833764718,4.095743360121884,2.766859552974824, Loc Found? false
+[18-05-2017-04-43-40],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7055039833764718,4.095743360121884,2.766859552974824, Loc Found? false
+[18-05-2017-06-06-19],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2640504269770376,4.928527076869605,2.799985997266741, Loc Found? false
+[18-05-2017-06-06-19],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2640504269770376,4.928527076869605,2.799985997266741, Loc Found? false
+[18-05-2017-06-06-19],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2640504269770376,4.928527076869605,2.799985997266741, Loc Found? false
+[18-05-2017-06-06-19],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2640504269770376,4.928527076869605,2.799985997266741, Loc Found? false
+[18-05-2017-04-44-01],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.801535936283778,NaN,5.887512128448684, Loc Found? false
+[18-05-2017-04-44-01],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.801535936283778,NaN,5.887512128448684, Loc Found? false
+[18-05-2017-04-44-01],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.801535936283778,NaN,5.887512128448684, Loc Found? false
+[18-05-2017-04-44-01],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.801535936283778,NaN,5.887512128448684, Loc Found? false
+[18-05-2017-04-47-37],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.003965790176383,3.2748675436567196,2.4991850864665683, Loc Found? false
+[18-05-2017-04-47-37],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.003965790176383,3.2748675436567196,2.4991850864665683, Loc Found? loc3
+[18-05-2017-04-47-37],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.003965790176383,3.2748675436567196,2.4991850864665683, Loc Found? loc3
+[18-05-2017-04-47-37],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.003965790176383,3.2748675436567196,2.4991850864665683, Loc Found? false
+[18-05-2017-04-45-21],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7368634020187355,5.711118818874895,2.965501879020732, Loc Found? false
+[18-05-2017-04-45-21],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7368634020187355,5.711118818874895,2.965501879020732, Loc Found? false
+[18-05-2017-04-45-21],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7368634020187355,5.711118818874895,2.965501879020732, Loc Found? false
+[18-05-2017-04-45-21],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7368634020187355,5.711118818874895,2.965501879020732, Loc Found? false
+[18-05-2017-06-08-02],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1387865504885881,5.216940208981173,2.495788355026219, Loc Found? false
+[18-05-2017-06-08-03],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1387865504885881,5.216940208981173,2.495788355026219, Loc Found? false
+[18-05-2017-06-08-03],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1387865504885881,5.216940208981173,2.495788355026219, Loc Found? false
+[18-05-2017-06-08-03],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1387865504885881,5.216940208981173,2.495788355026219, Loc Found? false
+[18-05-2017-04-45-43],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.679783566544357,NaN,7.206813863098707, Loc Found? false
+[18-05-2017-04-45-43],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.679783566544357,NaN,7.206813863098707, Loc Found? false
+[18-05-2017-04-45-43],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.679783566544357,NaN,7.206813863098707, Loc Found? false
+[18-05-2017-04-45-43],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.679783566544357,NaN,7.206813863098707, Loc Found? false
+[18-05-2017-04-49-21],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.888496809126388,3.261255833380796,1.877521223105331, Loc Found? false
+[18-05-2017-04-49-21],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.888496809126388,3.261255833380796,1.877521223105331, Loc Found? false
+[18-05-2017-04-49-21],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.888496809126388,3.261255833380796,1.877521223105331, Loc Found? false
+[18-05-2017-04-49-21],uID: Marie Aday, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.888496809126388,3.261255833380796,1.877521223105331, Loc Found? false
+[18-05-2017-04-47-02],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.228386683578009,3.7007354045998597,3.4747126718597348, Loc Found? false
+[18-05-2017-04-47-02],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.228386683578009,3.7007354045998597,3.4747126718597348, Loc Found? false
+[18-05-2017-04-47-02],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.228386683578009,3.7007354045998597,3.4747126718597348, Loc Found? false
+[18-05-2017-04-47-02],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.228386683578009,3.7007354045998597,3.4747126718597348, Loc Found? false
+[18-05-2017-06-09-43],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4535414998033886,4.093054688604025,3.2666756921418396, Loc Found? false
+[18-05-2017-06-09-43],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4535414998033886,4.093054688604025,3.2666756921418396, Loc Found? false
+[18-05-2017-06-09-43],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4535414998033886,4.093054688604025,3.2666756921418396, Loc Found? false
+[18-05-2017-06-09-43],uID: Nathaniel, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4535414998033886,4.093054688604025,3.2666756921418396, Loc Found? false
+[18-05-2017-04-47-24],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.749864332968654,0.9263839249797762,5.616006016598698, Loc Found? false
+[18-05-2017-04-47-24],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.749864332968654,0.9263839249797762,5.616006016598698, Loc Found? false
+[18-05-2017-04-47-24],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.749864332968654,0.9263839249797762,5.616006016598698, Loc Found? false
+[18-05-2017-04-47-24],uID: JARA ANDRION, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.749864332968654,0.9263839249797762,5.616006016598698, Loc Found? false
+[18-05-2017-04-49-07],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1105331823989697,3.9109265603345427,2.739348400544957, Loc Found? false
+[18-05-2017-04-49-07],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1105331823989697,3.9109265603345427,2.739348400544957, Loc Found? false
+[18-05-2017-04-49-07],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1105331823989697,3.9109265603345427,2.739348400544957, Loc Found? false
+[18-05-2017-04-49-07],uID: Jonathan, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.1105331823989697,3.9109265603345427,2.739348400544957, Loc Found? false
+[18-05-2017-04-59-35],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.4589048506118134,3.218657696369212,1.6451321666784946, Loc Found? false
+[18-05-2017-04-59-35],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.4589048506118134,3.218657696369212,1.6451321666784946, Loc Found? false
+[18-05-2017-04-59-35],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.4589048506118134,3.218657696369212,1.6451321666784946, Loc Found? false
+[18-05-2017-04-59-35],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.4589048506118134,3.218657696369212,1.6451321666784946, Loc Found? false
+[18-05-2017-04-59-31],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.562140301556436,5.226134592032154,10.837593068065338, Loc Found? loc1
+[18-05-2017-04-59-31],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.562140301556436,5.226134592032154,10.837593068065338, Loc Found? loc1
+[18-05-2017-04-59-31],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.562140301556436,5.226134592032154,10.837593068065338, Loc Found? loc1
+[18-05-2017-04-59-31],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.562140301556436,5.226134592032154,10.837593068065338, Loc Found? loc1
+[18-05-2017-05-00-36],uID: Shekayna, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 1.7929065207874053,9.66469910803746,11.687024238825915, Loc Found? false
+[18-05-2017-05-00-36],uID: Shekayna, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 1.7929065207874053,9.66469910803746,11.687024238825915, Loc Found? false
+[18-05-2017-05-00-36],uID: Shekayna, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 1.7929065207874053,9.66469910803746,11.687024238825915, Loc Found? false
+[18-05-2017-05-00-36],uID: Shekayna, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 1.7929065207874053,9.66469910803746,11.687024238825915, Loc Found? false
+[18-05-2017-05-01-07],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6753267161806624,3.7809231589977434,1.554285433362131, Loc Found? false
+[18-05-2017-05-01-07],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6753267161806624,3.7809231589977434,1.554285433362131, Loc Found? false
+[18-05-2017-05-01-07],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6753267161806624,3.7809231589977434,1.554285433362131, Loc Found? false
+[18-05-2017-05-01-07],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6753267161806624,3.7809231589977434,1.554285433362131, Loc Found? false
+[18-05-2017-05-02-18],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.8519381133850996,11.677334634444716,15.441074843031119, Loc Found? false
+[18-05-2017-05-02-18],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.8519381133850996,11.677334634444716,15.441074843031119, Loc Found? false
+[18-05-2017-05-02-18],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.8519381133850996,11.677334634444716,15.441074843031119, Loc Found? false
+[18-05-2017-05-02-18],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.8519381133850996,11.677334634444716,15.441074843031119, Loc Found? false
+[18-05-2017-05-01-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.6205516635027526,10.591569748609544,12.367105023260986, Loc Found? loc1
+[18-05-2017-05-01-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.6205516635027526,10.591569748609544,12.367105023260986, Loc Found? loc1
+[18-05-2017-05-01-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.6205516635027526,10.591569748609544,12.367105023260986, Loc Found? loc1
+[18-05-2017-05-01-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.6205516635027526,10.591569748609544,12.367105023260986, Loc Found? loc1
+[18-05-2017-05-02-38],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.824789696331593,4.068244216974324,1.7989999555537803, Loc Found? false
+[18-05-2017-05-02-38],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.824789696331593,4.068244216974324,1.7989999555537803, Loc Found? false
+[18-05-2017-05-02-38],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.824789696331593,4.068244216974324,1.7989999555537803, Loc Found? false
+[18-05-2017-05-02-38],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.824789696331593,4.068244216974324,1.7989999555537803, Loc Found? false
+[18-05-2017-05-03-29],uID: jowee, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.732216801310054,0.8803200244344799,3.7826959103024955, Loc Found? false
+[18-05-2017-05-03-29],uID: jowee, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.732216801310054,0.8803200244344799,3.7826959103024955, Loc Found? false
+[18-05-2017-05-03-29],uID: jowee, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.732216801310054,0.8803200244344799,3.7826959103024955, Loc Found? false
+[18-05-2017-05-03-29],uID: jowee, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.732216801310054,0.8803200244344799,3.7826959103024955, Loc Found? false
+[18-05-2017-05-04-00],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.2575529005059525,7.071830300136492,8.91290828101838, Loc Found? loc1
+[18-05-2017-05-04-00],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.2575529005059525,7.071830300136492,8.91290828101838, Loc Found? loc1
+[18-05-2017-05-04-00],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.2575529005059525,7.071830300136492,8.91290828101838, Loc Found? loc1
+[18-05-2017-05-04-00],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.2575529005059525,7.071830300136492,8.91290828101838, Loc Found? loc1
+[18-05-2017-05-03-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.467301441594997,6.018792443510903,3.852892781929221, Loc Found? false
+[18-05-2017-05-03-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.467301441594997,6.018792443510903,3.852892781929221, Loc Found? false
+[18-05-2017-05-03-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.467301441594997,6.018792443510903,3.852892781929221, Loc Found? false
+[18-05-2017-05-03-52],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.467301441594997,6.018792443510903,3.852892781929221, Loc Found? false
+[18-05-2017-05-04-19],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.485489754505044,3.19375608651026,1.211247147983071, Loc Found? false
+[18-05-2017-05-04-19],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.485489754505044,3.19375608651026,1.211247147983071, Loc Found? false
+[18-05-2017-05-04-19],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.485489754505044,3.19375608651026,1.211247147983071, Loc Found? false
+[18-05-2017-05-04-19],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.485489754505044,3.19375608651026,1.211247147983071, Loc Found? false
+[18-05-2017-05-05-10],uID: jowee, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.535180105357194,NaN,2.7108548905854595, Loc Found? false
+[18-05-2017-05-05-10],uID: jowee, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.535180105357194,NaN,2.7108548905854595, Loc Found? false
+[18-05-2017-05-05-10],uID: jowee, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.535180105357194,NaN,2.7108548905854595, Loc Found? false
+[18-05-2017-05-05-10],uID: jowee, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 4.535180105357194,NaN,2.7108548905854595, Loc Found? false
+[18-05-2017-05-05-50],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.837678047990394,5.037503952362474,2.0616299656334696, Loc Found? false
+[18-05-2017-05-05-50],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.837678047990394,5.037503952362474,2.0616299656334696, Loc Found? false
+[18-05-2017-05-05-50],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.837678047990394,5.037503952362474,2.0616299656334696, Loc Found? false
+[18-05-2017-05-05-50],uID: Da2708, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.837678047990394,5.037503952362474,2.0616299656334696, Loc Found? false
+[18-05-2017-05-05-58],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5447498222593887,8.230652331364642,12.614649350802946, Loc Found? false
+[18-05-2017-05-05-58],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5447498222593887,8.230652331364642,12.614649350802946, Loc Found? false
+[18-05-2017-05-05-58],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5447498222593887,8.230652331364642,12.614649350802946, Loc Found? false
+[18-05-2017-05-05-58],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5447498222593887,8.230652331364642,12.614649350802946, Loc Found? false
+[18-05-2017-05-05-36],uID: rj, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.265402101629591,4.619779483997487,NaN, Loc Found? false
+[18-05-2017-05-05-36],uID: rj, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.265402101629591,4.619779483997487,NaN, Loc Found? false
+[18-05-2017-05-05-36],uID: rj, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.265402101629591,4.619779483997487,NaN, Loc Found? false
+[18-05-2017-05-05-36],uID: rj, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.265402101629591,4.619779483997487,NaN, Loc Found? false
+[18-05-2017-05-05-33],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.345792774524935,11.556486129460533,9.915999383408918, Loc Found? false
+[18-05-2017-05-05-33],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.345792774524935,11.556486129460533,9.915999383408918, Loc Found? loc2
+[18-05-2017-05-05-33],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.345792774524935,11.556486129460533,9.915999383408918, Loc Found? loc2
+[18-05-2017-05-05-33],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.345792774524935,11.556486129460533,9.915999383408918, Loc Found? loc2
+[18-05-2017-05-06-51],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.2686184351718115,NaN,1.77024113188951, Loc Found? false
+[18-05-2017-05-06-51],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.2686184351718115,NaN,1.77024113188951, Loc Found? false
+[18-05-2017-05-06-51],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.2686184351718115,NaN,1.77024113188951, Loc Found? false
+[18-05-2017-05-06-51],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.2686184351718115,NaN,1.77024113188951, Loc Found? false
+[18-05-2017-05-07-30],uID: Da2708, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.668135647121618,4.787927645028544,2.9580441904352512, Loc Found? false
+[18-05-2017-05-07-30],uID: Da2708, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.668135647121618,4.787927645028544,2.9580441904352512, Loc Found? false
+[18-05-2017-05-07-30],uID: Da2708, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.668135647121618,4.787927645028544,2.9580441904352512, Loc Found? false
+[18-05-2017-05-07-30],uID: Da2708, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.668135647121618,4.787927645028544,2.9580441904352512, Loc Found? false
+[18-05-2017-05-07-16],uID: rj, Estimated Proximity: FAR,FAR,IMMEDIATE, Estimated Location Values: 5.234477678807148,4.832557510781113,NaN, Loc Found? false
+[18-05-2017-05-07-17],uID: rj, Estimated Proximity: FAR,FAR,IMMEDIATE, Estimated Location Values: 5.234477678807148,4.832557510781113,NaN, Loc Found? false
+[18-05-2017-05-07-17],uID: rj, Estimated Proximity: FAR,FAR,IMMEDIATE, Estimated Location Values: 5.234477678807148,4.832557510781113,NaN, Loc Found? false
+[18-05-2017-05-07-17],uID: rj, Estimated Proximity: FAR,FAR,IMMEDIATE, Estimated Location Values: 5.234477678807148,4.832557510781113,NaN, Loc Found? false
+[18-05-2017-05-07-40],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3504978254407034,6.408933726793438,12.761358999486031, Loc Found? false
+[18-05-2017-05-07-40],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3504978254407034,6.408933726793438,12.761358999486031, Loc Found? false
+[18-05-2017-05-07-40],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3504978254407034,6.408933726793438,12.761358999486031, Loc Found? false
+[18-05-2017-05-07-40],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3504978254407034,6.408933726793438,12.761358999486031, Loc Found? false
+[18-05-2017-05-07-49],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4787239968305483,6.938679622494871,12.066701247861634, Loc Found? loc1
+[18-05-2017-05-07-49],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4787239968305483,6.938679622494871,12.066701247861634, Loc Found? loc1
+[18-05-2017-05-07-49],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4787239968305483,6.938679622494871,12.066701247861634, Loc Found? loc1
+[18-05-2017-05-07-49],uID: carlo, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.4787239968305483,6.938679622494871,12.066701247861634, Loc Found? loc1
+[18-05-2017-05-08-32],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.7058007244942717,NaN,3.3228029248189452, Loc Found? false
+[18-05-2017-05-08-32],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.7058007244942717,NaN,3.3228029248189452, Loc Found? false
+[18-05-2017-05-08-32],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.7058007244942717,NaN,3.3228029248189452, Loc Found? false
+[18-05-2017-05-08-32],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.7058007244942717,NaN,3.3228029248189452, Loc Found? false
+[18-05-2017-05-08-57],uID: rj, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.70782938849948,5.309663341370347,NaN, Loc Found? false
+[18-05-2017-05-08-57],uID: rj, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.70782938849948,5.309663341370347,NaN, Loc Found? false
+[18-05-2017-05-08-57],uID: rj, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.70782938849948,5.309663341370347,NaN, Loc Found? false
+[18-05-2017-05-08-57],uID: rj, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.70782938849948,5.309663341370347,NaN, Loc Found? false
+[18-05-2017-05-09-22],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5297904691240802,9.162026611240197,8.566352389367339, Loc Found? false
+[18-05-2017-05-09-22],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5297904691240802,9.162026611240197,8.566352389367339, Loc Found? false
+[18-05-2017-05-09-22],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5297904691240802,9.162026611240197,8.566352389367339, Loc Found? false
+[18-05-2017-05-09-22],uID: Shekayna, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.5297904691240802,9.162026611240197,8.566352389367339, Loc Found? false
+[18-05-2017-05-10-13],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.519880739934828,NaN,4.993441252437525, Loc Found? false
+[18-05-2017-05-10-13],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.519880739934828,NaN,4.993441252437525, Loc Found? false
+[18-05-2017-05-10-13],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.519880739934828,NaN,4.993441252437525, Loc Found? false
+[18-05-2017-05-10-13],uID: jowee, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 3.519880739934828,NaN,4.993441252437525, Loc Found? false
+[18-05-2017-05-24-52],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,10.21361340917258,10.273408817526803, Loc Found? false
+[18-05-2017-05-24-53],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,10.21361340917258,10.273408817526803, Loc Found? false
+[18-05-2017-05-24-53],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,10.21361340917258,10.273408817526803, Loc Found? false
+[18-05-2017-05-24-53],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,10.21361340917258,10.273408817526803, Loc Found? false
+[18-05-2017-05-25-04],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 11.542756977685046,6.701771754783694,3.2485075106086065, Loc Found? false
+[18-05-2017-05-25-05],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 11.542756977685046,6.701771754783694,3.2485075106086065, Loc Found? false
+[18-05-2017-05-25-05],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 11.542756977685046,6.701771754783694,3.2485075106086065, Loc Found? false
+[18-05-2017-05-25-05],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 11.542756977685046,6.701771754783694,3.2485075106086065, Loc Found? false
+[18-05-2017-05-25-31],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.077793387368828,1.271170159101447,4.575255381627138, Loc Found? false
+[18-05-2017-05-25-32],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.077793387368828,1.271170159101447,4.575255381627138, Loc Found? false
+[18-05-2017-05-25-32],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.077793387368828,1.271170159101447,4.575255381627138, Loc Found? false
+[18-05-2017-05-25-32],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.077793387368828,1.271170159101447,4.575255381627138, Loc Found? loc4
+[18-05-2017-05-25-34],uID: Chad, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.576426800632284,7.440337732735031,1.4039365202005414, Loc Found? false
+[18-05-2017-05-25-34],uID: Chad, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.576426800632284,7.440337732735031,1.4039365202005414, Loc Found? false
+[18-05-2017-05-25-34],uID: Chad, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.576426800632284,7.440337732735031,1.4039365202005414, Loc Found? false
+[18-05-2017-05-25-34],uID: Chad, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 2.576426800632284,7.440337732735031,1.4039365202005414, Loc Found? false
+[18-05-2017-05-31-42],uID: Light, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.1940701591115324,3.3003274877881728,6.8278101739362, Loc Found? false
+[18-05-2017-05-31-42],uID: Light, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.1940701591115324,3.3003274877881728,6.8278101739362, Loc Found? false
+[18-05-2017-05-31-42],uID: Light, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.1940701591115324,3.3003274877881728,6.8278101739362, Loc Found? false
+[18-05-2017-05-31-42],uID: Light, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.1940701591115324,3.3003274877881728,6.8278101739362, Loc Found? false
+[18-05-2017-05-26-34],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,6.89394442976984,10.618744026637529, Loc Found? false
+[18-05-2017-05-26-35],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,6.89394442976984,10.618744026637529, Loc Found? false
+[18-05-2017-05-26-35],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,6.89394442976984,10.618744026637529, Loc Found? false
+[18-05-2017-05-26-35],uID: ifrit, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,6.89394442976984,10.618744026637529, Loc Found? false
+[18-05-2017-05-27-03],uID: mataray, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.266829888972227,NaN,7.9649832797981865, Loc Found? false
+[18-05-2017-05-27-03],uID: mataray, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.266829888972227,NaN,7.9649832797981865, Loc Found? false
+[18-05-2017-05-27-03],uID: mataray, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.266829888972227,NaN,7.9649832797981865, Loc Found? false
+[18-05-2017-05-27-03],uID: mataray, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.266829888972227,NaN,7.9649832797981865, Loc Found? false
+[18-05-2017-05-27-18],uID: Chad, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.111851021483672,6.38356074732107,NaN, Loc Found? false
+[18-05-2017-05-27-18],uID: Chad, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.111851021483672,6.38356074732107,NaN, Loc Found? false
+[18-05-2017-05-27-18],uID: Chad, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.111851021483672,6.38356074732107,NaN, Loc Found? false
+[18-05-2017-05-27-18],uID: Chad, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.111851021483672,6.38356074732107,NaN, Loc Found? false
+[18-05-2017-05-33-41],uID: Light, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.081030152826677,NaN,2.8392057457774107, Loc Found? false
+[18-05-2017-05-33-41],uID: Light, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.081030152826677,NaN,2.8392057457774107, Loc Found? false
+[18-05-2017-05-33-41],uID: Light, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.081030152826677,NaN,2.8392057457774107, Loc Found? false
+[18-05-2017-05-33-41],uID: Light, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.081030152826677,NaN,2.8392057457774107, Loc Found? false
+[18-05-2017-05-28-09],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.043508178689084,6.836924753316937,4.4411134918391415, Loc Found? false
+[18-05-2017-05-28-10],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.043508178689084,6.836924753316937,4.4411134918391415, Loc Found? loc2
+[18-05-2017-05-28-10],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.043508178689084,6.836924753316937,4.4411134918391415, Loc Found? loc2
+[18-05-2017-05-28-10],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.043508178689084,6.836924753316937,4.4411134918391415, Loc Found? loc2
+[18-05-2017-05-28-16],uID: ifrit, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.336005484551341,10.857560122657464,4.24452858036399, Loc Found? false
+[18-05-2017-05-28-17],uID: ifrit, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.336005484551341,10.857560122657464,4.24452858036399, Loc Found? loc2
+[18-05-2017-05-28-17],uID: ifrit, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.336005484551341,10.857560122657464,4.24452858036399, Loc Found? loc2
+[18-05-2017-05-28-17],uID: ifrit, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.336005484551341,10.857560122657464,4.24452858036399, Loc Found? loc2
+[18-05-2017-05-29-06],uID: mataray, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4016580512458212,1.3827132631418524,5.235515639459918, Loc Found? false
+[18-05-2017-05-29-06],uID: mataray, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4016580512458212,1.3827132631418524,5.235515639459918, Loc Found? false
+[18-05-2017-05-29-06],uID: mataray, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4016580512458212,1.3827132631418524,5.235515639459918, Loc Found? false
+[18-05-2017-05-29-06],uID: mataray, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.4016580512458212,1.3827132631418524,5.235515639459918, Loc Found? false
+[18-05-2017-05-35-22],uID: Light, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.963095912492478,1.3590906727881753,1.861531779530186, Loc Found? false
+[18-05-2017-05-35-22],uID: Light, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.963095912492478,1.3590906727881753,1.861531779530186, Loc Found? false
+[18-05-2017-05-35-22],uID: Light, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.963095912492478,1.3590906727881753,1.861531779530186, Loc Found? false
+[18-05-2017-05-35-22],uID: Light, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.963095912492478,1.3590906727881753,1.861531779530186, Loc Found? false
+[18-05-2017-05-30-08],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.302611475907751,11.15948328715754,7.682123119822488, Loc Found? loc1
+[18-05-2017-05-30-09],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.302611475907751,11.15948328715754,7.682123119822488, Loc Found? loc2
+[18-05-2017-05-30-09],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.302611475907751,11.15948328715754,7.682123119822488, Loc Found? loc2
+[18-05-2017-05-30-09],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.302611475907751,11.15948328715754,7.682123119822488, Loc Found? loc2
+[18-05-2017-05-30-25],uID: ifrit, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.46281990622552,NaN,9.037470414722485, Loc Found? false
+[18-05-2017-05-30-25],uID: ifrit, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.46281990622552,NaN,9.037470414722485, Loc Found? false
+[18-05-2017-05-30-25],uID: ifrit, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.46281990622552,NaN,9.037470414722485, Loc Found? false
+[18-05-2017-05-30-25],uID: ifrit, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 9.46281990622552,NaN,9.037470414722485, Loc Found? false
+[18-05-2017-05-30-35],uID: Chad, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.1712016144958108,2.52840914209332,6.764575604943661, Loc Found? false
+[18-05-2017-05-30-37],uID: Chad, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.1712016144958108,2.52840914209332,6.764575604943661, Loc Found? false
+[18-05-2017-05-30-37],uID: Chad, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.1712016144958108,2.52840914209332,6.764575604943661, Loc Found? false
+[18-05-2017-05-30-37],uID: Chad, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.1712016144958108,2.52840914209332,6.764575604943661, Loc Found? false
+[18-05-2017-05-30-48],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.243034597192275,8.688570031270858,7.952715615686846, Loc Found? loc1
+[18-05-2017-05-30-48],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.243034597192275,8.688570031270858,7.952715615686846, Loc Found? loc2
+[18-05-2017-05-30-48],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.243034597192275,8.688570031270858,7.952715615686846, Loc Found? loc2
+[18-05-2017-05-30-48],uID: mataray, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 4.243034597192275,8.688570031270858,7.952715615686846, Loc Found? loc2
+[18-05-2017-05-37-12],uID: Light, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.5281216023992545,1.8148023858208033,1.8519381133850996, Loc Found? false
+[18-05-2017-05-37-12],uID: Light, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.5281216023992545,1.8148023858208033,1.8519381133850996, Loc Found? false
+[18-05-2017-05-37-12],uID: Light, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.5281216023992545,1.8148023858208033,1.8519381133850996, Loc Found? false
+[18-05-2017-05-37-12],uID: Light, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 4.5281216023992545,1.8148023858208033,1.8519381133850996, Loc Found? false
+[18-05-2017-05-32-07],uID: ifrit, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.320372999526119,7.513031219033718,2.3321487346033627, Loc Found? false
+[18-05-2017-05-32-07],uID: ifrit, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.320372999526119,7.513031219033718,2.3321487346033627, Loc Found? false
+[18-05-2017-05-32-07],uID: ifrit, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.320372999526119,7.513031219033718,2.3321487346033627, Loc Found? false
+[18-05-2017-05-32-07],uID: ifrit, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 7.320372999526119,7.513031219033718,2.3321487346033627, Loc Found? false
+[18-05-2017-05-32-17],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.801535936283778,7.674476550908571,9.13149578433341, Loc Found? loc1
+[18-05-2017-05-32-17],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.801535936283778,7.674476550908571,9.13149578433341, Loc Found? loc1
+[18-05-2017-05-32-17],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.801535936283778,7.674476550908571,9.13149578433341, Loc Found? loc1
+[18-05-2017-05-32-17],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 2.801535936283778,7.674476550908571,9.13149578433341, Loc Found? loc1
+[18-05-2017-05-32-27],uID: Chad, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.784068110287336,NaN,4.877763748565267, Loc Found? false
+[18-05-2017-05-32-27],uID: Chad, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.784068110287336,NaN,4.877763748565267, Loc Found? false
+[18-05-2017-05-32-27],uID: Chad, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.784068110287336,NaN,4.877763748565267, Loc Found? false
+[18-05-2017-05-32-27],uID: Chad, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 6.784068110287336,NaN,4.877763748565267, Loc Found? false
+[18-05-2017-05-34-25],uID: Chad, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.453947145243476,0.9077904370493312,1.8750433490732288, Loc Found? false
+[18-05-2017-05-34-25],uID: Chad, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.453947145243476,0.9077904370493312,1.8750433490732288, Loc Found? false
+[18-05-2017-05-34-25],uID: Chad, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.453947145243476,0.9077904370493312,1.8750433490732288, Loc Found? false
+[18-05-2017-05-34-25],uID: Chad, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 5.453947145243476,0.9077904370493312,1.8750433490732288, Loc Found? false
+[18-05-2017-05-35-32],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.020887279430164,2.762120516002046,1.808481413713994, Loc Found? false
+[18-05-2017-05-35-32],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.020887279430164,2.762120516002046,1.808481413713994, Loc Found? false
+[18-05-2017-05-35-32],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.020887279430164,2.762120516002046,1.808481413713994, Loc Found? false
+[18-05-2017-05-35-32],uID: unicorn na matigas, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 9.020887279430164,2.762120516002046,1.808481413713994, Loc Found? false
+[18-05-2017-05-37-14],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 7.586660174891614,2.855168649240067,1.4754520597844518, Loc Found? false
+[18-05-2017-05-37-14],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 7.586660174891614,2.855168649240067,1.4754520597844518, Loc Found? false
+[18-05-2017-05-37-14],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 7.586660174891614,2.855168649240067,1.4754520597844518, Loc Found? false
+[18-05-2017-05-37-14],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 7.586660174891614,2.855168649240067,1.4754520597844518, Loc Found? false
+[18-05-2017-05-38-56],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 9.725173528754725,2.7173808844194753,1.5428064457316735, Loc Found? false
+[18-05-2017-05-38-56],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 9.725173528754725,2.7173808844194753,1.5428064457316735, Loc Found? false
+[18-05-2017-05-38-56],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 9.725173528754725,2.7173808844194753,1.5428064457316735, Loc Found? false
+[18-05-2017-05-38-56],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 9.725173528754725,2.7173808844194753,1.5428064457316735, Loc Found? false
+[18-05-2017-05-40-38],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.468780967046785,2.8465701020791623,1.655104255769262, Loc Found? false
+[18-05-2017-05-40-38],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.468780967046785,2.8465701020791623,1.655104255769262, Loc Found? false
+[18-05-2017-05-40-38],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.468780967046785,2.8465701020791623,1.655104255769262, Loc Found? false
+[18-05-2017-05-40-38],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.468780967046785,2.8465701020791623,1.655104255769262, Loc Found? false
+[18-05-2017-05-42-20],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.135314390832004,2.5795931195988833,1.5928319049127981, Loc Found? false
+[18-05-2017-05-42-20],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.135314390832004,2.5795931195988833,1.5928319049127981, Loc Found? false
+[18-05-2017-05-42-20],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.135314390832004,2.5795931195988833,1.5928319049127981, Loc Found? false
+[18-05-2017-05-42-20],uID: unicorn na matigas, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 8.135314390832004,2.5795931195988833,1.5928319049127981, Loc Found? false
+[18-05-2017-06-14-57],uID: slobaddik, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.860602576768148,1.4555300076518858,NaN, Loc Found? false
+[18-05-2017-06-14-57],uID: slobaddik, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.860602576768148,1.4555300076518858,NaN, Loc Found? false
+[18-05-2017-06-14-57],uID: slobaddik, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.860602576768148,1.4555300076518858,NaN, Loc Found? false
+[18-05-2017-06-14-57],uID: slobaddik, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.860602576768148,1.4555300076518858,NaN, Loc Found? false
+[18-05-2017-06-16-05],uID: exi, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.599955658539068,1.0908188635058862,6.09458105767769, Loc Found? false
+[18-05-2017-06-16-05],uID: exi, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.599955658539068,1.0908188635058862,6.09458105767769, Loc Found? false
+[18-05-2017-06-16-05],uID: exi, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.599955658539068,1.0908188635058862,6.09458105767769, Loc Found? loc4
+[18-05-2017-06-16-05],uID: exi, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 6.599955658539068,1.0908188635058862,6.09458105767769, Loc Found? false
+[18-05-2017-06-17-40],uID: csb, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.9377621863577563,3.9640359721338587,1.3489948086011005, Loc Found? false
+[18-05-2017-06-17-40],uID: csb, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.9377621863577563,3.9640359721338587,1.3489948086011005, Loc Found? false
+[18-05-2017-06-17-40],uID: csb, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.9377621863577563,3.9640359721338587,1.3489948086011005, Loc Found? false
+[18-05-2017-06-17-40],uID: csb, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.9377621863577563,3.9640359721338587,1.3489948086011005, Loc Found? false
+[18-05-2017-06-17-56],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.641657598317401,5.072456141038208,2.967122878015535, Loc Found? false
+[18-05-2017-06-17-56],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.641657598317401,5.072456141038208,2.967122878015535, Loc Found? false
+[18-05-2017-06-17-56],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.641657598317401,5.072456141038208,2.967122878015535, Loc Found? loc3
+[18-05-2017-06-17-56],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 8.641657598317401,5.072456141038208,2.967122878015535, Loc Found? loc3
+[18-05-2017-06-18-17],uID: EJ, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.892099426983329,5.081735610610338, Loc Found? false
+[18-05-2017-06-18-17],uID: EJ, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.892099426983329,5.081735610610338, Loc Found? false
+[18-05-2017-06-18-17],uID: EJ, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.892099426983329,5.081735610610338, Loc Found? false
+[18-05-2017-06-18-17],uID: EJ, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.892099426983329,5.081735610610338, Loc Found? false
+[18-05-2017-06-18-47],uID: nicep0, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.8624609822922247,NaN,3.985661218331455, Loc Found? false
+[18-05-2017-06-18-47],uID: nicep0, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.8624609822922247,NaN,3.985661218331455, Loc Found? false
+[18-05-2017-06-18-47],uID: nicep0, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.8624609822922247,NaN,3.985661218331455, Loc Found? false
+[18-05-2017-06-18-47],uID: nicep0, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.8624609822922247,NaN,3.985661218331455, Loc Found? false
+[18-05-2017-06-19-21],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.4039727980915138,1.500646099773564,NaN, Loc Found? false
+[18-05-2017-06-19-21],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.4039727980915138,1.500646099773564,NaN, Loc Found? false
+[18-05-2017-06-19-21],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.4039727980915138,1.500646099773564,NaN, Loc Found? false
+[18-05-2017-06-19-21],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.4039727980915138,1.500646099773564,NaN, Loc Found? false
+[18-05-2017-06-19-43],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.004632179922516,6.203631657904758,3.2004783782686452, Loc Found? false
+[18-05-2017-06-19-43],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.004632179922516,6.203631657904758,3.2004783782686452, Loc Found? false
+[18-05-2017-06-19-43],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.004632179922516,6.203631657904758,3.2004783782686452, Loc Found? false
+[18-05-2017-06-19-43],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 5.004632179922516,6.203631657904758,3.2004783782686452, Loc Found? false
+[18-05-2017-06-19-58],uID: EJ, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.4836574568270358,NaN,4.285595938775582, Loc Found? false
+[18-05-2017-06-19-59],uID: EJ, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.4836574568270358,NaN,4.285595938775582, Loc Found? false
+[18-05-2017-06-19-59],uID: EJ, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.4836574568270358,NaN,4.285595938775582, Loc Found? false
+[18-05-2017-06-19-59],uID: EJ, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.4836574568270358,NaN,4.285595938775582, Loc Found? false
+[18-05-2017-06-20-27],uID: nicep0, Estimated Proximity: IMMEDIATE,NEAR,FAR, Estimated Location Values: NaN,2.567444702477523,4.079932693209248, Loc Found? false
+[18-05-2017-06-20-27],uID: nicep0, Estimated Proximity: IMMEDIATE,NEAR,FAR, Estimated Location Values: NaN,2.567444702477523,4.079932693209248, Loc Found? false
+[18-05-2017-06-20-27],uID: nicep0, Estimated Proximity: IMMEDIATE,NEAR,FAR, Estimated Location Values: NaN,2.567444702477523,4.079932693209248, Loc Found? false
+[18-05-2017-06-20-27],uID: nicep0, Estimated Proximity: IMMEDIATE,NEAR,FAR, Estimated Location Values: NaN,2.567444702477523,4.079932693209248, Loc Found? false
+[18-05-2017-06-21-02],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 2.8024831335819993,NaN,1.37606334471406, Loc Found? false
+[18-05-2017-06-21-02],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 2.8024831335819993,NaN,1.37606334471406, Loc Found? false
+[18-05-2017-06-21-02],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 2.8024831335819993,NaN,1.37606334471406, Loc Found? false
+[18-05-2017-06-21-02],uID: csb, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 2.8024831335819993,NaN,1.37606334471406, Loc Found? false
+[18-05-2017-06-21-25],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.5701461982281355,6.343341229259886,6.939867100764717, Loc Found? loc1
+[18-05-2017-06-21-25],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.5701461982281355,6.343341229259886,6.939867100764717, Loc Found? loc1
+[18-05-2017-06-21-25],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.5701461982281355,6.343341229259886,6.939867100764717, Loc Found? loc1
+[18-05-2017-06-21-25],uID: exi, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.5701461982281355,6.343341229259886,6.939867100764717, Loc Found? loc1
+[18-05-2017-06-21-39],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.9490254804671587,1.1053481008303117,1.6451321666784948, Loc Found? false
+[18-05-2017-06-21-39],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.9490254804671587,1.1053481008303117,1.6451321666784948, Loc Found? false
+[18-05-2017-06-21-39],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.9490254804671587,1.1053481008303117,1.6451321666784948, Loc Found? false
+[18-05-2017-06-21-39],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.9490254804671587,1.1053481008303117,1.6451321666784948, Loc Found? false
+[18-05-2017-06-22-08],uID: nicep0, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.7326655575349799,3.6604442947311293,1.4561364167251742, Loc Found? false
+[18-05-2017-06-22-08],uID: nicep0, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.7326655575349799,3.6604442947311293,1.4561364167251742, Loc Found? false
+[18-05-2017-06-22-08],uID: nicep0, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.7326655575349799,3.6604442947311293,1.4561364167251742, Loc Found? false
+[18-05-2017-06-22-08],uID: nicep0, Estimated Proximity: NEAR,FAR,NEAR, Estimated Location Values: 1.7326655575349799,3.6604442947311293,1.4561364167251742, Loc Found? false
+[18-05-2017-06-22-43],uID: csb, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.5946455947227776,NaN,4.471605247268132, Loc Found? false
+[18-05-2017-06-22-43],uID: csb, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.5946455947227776,NaN,4.471605247268132, Loc Found? false
+[18-05-2017-06-22-43],uID: csb, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.5946455947227776,NaN,4.471605247268132, Loc Found? false
+[18-05-2017-06-22-43],uID: csb, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.5946455947227776,NaN,4.471605247268132, Loc Found? false
+[18-05-2017-06-23-20],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: NaN,1.6961733993116834,1.5410175771121286, Loc Found? false
+[18-05-2017-06-23-20],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: NaN,1.6961733993116834,1.5410175771121286, Loc Found? false
+[18-05-2017-06-23-20],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: NaN,1.6961733993116834,1.5410175771121286, Loc Found? false
+[18-05-2017-06-23-20],uID: EJ, Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: NaN,1.6961733993116834,1.5410175771121286, Loc Found? false
+[18-05-2017-06-24-24],uID: csb, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.2804636780739145,3.8835815253821613, Loc Found? false
+[18-05-2017-06-24-24],uID: csb, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.2804636780739145,3.8835815253821613, Loc Found? false
+[18-05-2017-06-24-24],uID: csb, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.2804636780739145,3.8835815253821613, Loc Found? false
+[18-05-2017-06-24-24],uID: csb, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: NaN,4.2804636780739145,3.8835815253821613, Loc Found? false
+[18-05-2017-06-35-13],uID: , Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.703744347685282,1.6171065780373837,1.2732700463893618, Loc Found? false
+[18-05-2017-06-35-13],uID: , Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.703744347685282,1.6171065780373837,1.2732700463893618, Loc Found? false
+[18-05-2017-06-35-13],uID: , Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.703744347685282,1.6171065780373837,1.2732700463893618, Loc Found? false
+[18-05-2017-06-35-13],uID: , Estimated Proximity: FAR,NEAR,NEAR, Estimated Location Values: 3.703744347685282,1.6171065780373837,1.2732700463893618, Loc Found? false
+[18-05-2017-06-36-53],uID: simon, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 2.871726575310495,1.4957933735211726,NaN, Loc Found? false
+[18-05-2017-06-36-54],uID: simon, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 2.871726575310495,1.4957933735211726,NaN, Loc Found? false
+[18-05-2017-06-36-54],uID: simon, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 2.871726575310495,1.4957933735211726,NaN, Loc Found? false
+[18-05-2017-06-36-54],uID: simon, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 2.871726575310495,1.4957933735211726,NaN, Loc Found? false
+[18-05-2017-06-38-27],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.803854453304104,6.282234185263662,10.237185051984698, Loc Found? false
+[18-05-2017-06-38-28],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.803854453304104,6.282234185263662,10.237185051984698, Loc Found? false
+[18-05-2017-06-38-28],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.803854453304104,6.282234185263662,10.237185051984698, Loc Found? false
+[18-05-2017-06-38-28],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.803854453304104,6.282234185263662,10.237185051984698, Loc Found? false
+[18-05-2017-06-38-35],uID: Justin Seagull, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.395610186196071,NaN,4.99930023711946, Loc Found? false
+[18-05-2017-06-38-35],uID: Justin Seagull, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.395610186196071,NaN,4.99930023711946, Loc Found? false
+[18-05-2017-06-38-35],uID: Justin Seagull, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.395610186196071,NaN,4.99930023711946, Loc Found? false
+[18-05-2017-06-38-35],uID: Justin Seagull, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.395610186196071,NaN,4.99930023711946, Loc Found? false
+[18-05-2017-06-38-36],uID: Cedric, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.936785728366707,3.0107210080484372,1.6210965191582223, Loc Found? false
+[18-05-2017-06-38-36],uID: Cedric, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.936785728366707,3.0107210080484372,1.6210965191582223, Loc Found? false
+[18-05-2017-06-38-36],uID: Cedric, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.936785728366707,3.0107210080484372,1.6210965191582223, Loc Found? false
+[18-05-2017-06-38-36],uID: Cedric, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.936785728366707,3.0107210080484372,1.6210965191582223, Loc Found? false
+[18-05-2017-06-38-44],uID: simon, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.9318729309892406,NaN,0.8193843511417066, Loc Found? false
+[18-05-2017-06-38-44],uID: simon, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.9318729309892406,NaN,0.8193843511417066, Loc Found? false
+[18-05-2017-06-38-44],uID: simon, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.9318729309892406,NaN,0.8193843511417066, Loc Found? false
+[18-05-2017-06-38-44],uID: simon, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 2.9318729309892406,NaN,0.8193843511417066, Loc Found? false
+[18-05-2017-06-38-23],uID: babs, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2243629471562913,4.2614795545026904,3.1995638816890217, Loc Found? false
+[18-05-2017-06-38-23],uID: babs, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2243629471562913,4.2614795545026904,3.1995638816890217, Loc Found? false
+[18-05-2017-06-38-23],uID: babs, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2243629471562913,4.2614795545026904,3.1995638816890217, Loc Found? false
+[18-05-2017-06-38-23],uID: babs, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2243629471562913,4.2614795545026904,3.1995638816890217, Loc Found? false
+[18-05-2017-06-40-09],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.6082605128978167,6.226593547781299,3.401244956207559, Loc Found? false
+[18-05-2017-06-40-09],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.6082605128978167,6.226593547781299,3.401244956207559, Loc Found? false
+[18-05-2017-06-40-09],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.6082605128978167,6.226593547781299,3.401244956207559, Loc Found? false
+[18-05-2017-06-40-09],uID: Pisces, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.6082605128978167,6.226593547781299,3.401244956207559, Loc Found? false
+[18-05-2017-06-40-19],uID: Cedric, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.6159429021790863,1.0960388889714694,1.570155337096597, Loc Found? false
+[18-05-2017-06-40-19],uID: Cedric, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.6159429021790863,1.0960388889714694,1.570155337096597, Loc Found? false
+[18-05-2017-06-40-19],uID: Cedric, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.6159429021790863,1.0960388889714694,1.570155337096597, Loc Found? false
+[18-05-2017-06-40-19],uID: Cedric, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.6159429021790863,1.0960388889714694,1.570155337096597, Loc Found? false
+[18-05-2017-06-40-24],uID: simon, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.1674860894773478,NaN,2.8455343634055668, Loc Found? false
+[18-05-2017-06-40-24],uID: simon, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.1674860894773478,NaN,2.8455343634055668, Loc Found? false
+[18-05-2017-06-40-24],uID: simon, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.1674860894773478,NaN,2.8455343634055668, Loc Found? false
+[18-05-2017-06-40-24],uID: simon, Estimated Proximity: NEAR,IMMEDIATE,FAR, Estimated Location Values: 1.1674860894773478,NaN,2.8455343634055668, Loc Found? false
+[18-05-2017-06-40-06],uID: babs, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.7166115810159959,NaN,1.860602576768148, Loc Found? false
+[18-05-2017-06-40-06],uID: babs, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.7166115810159959,NaN,1.860602576768148, Loc Found? false
+[18-05-2017-06-40-06],uID: babs, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.7166115810159959,NaN,1.860602576768148, Loc Found? false
+[18-05-2017-06-40-06],uID: babs, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.7166115810159959,NaN,1.860602576768148, Loc Found? false
+[18-05-2017-06-40-39],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3782799841899909,NaN,6.504387865439163, Loc Found? false
+[18-05-2017-06-40-39],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3782799841899909,NaN,6.504387865439163, Loc Found? false
+[18-05-2017-06-40-39],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3782799841899909,NaN,6.504387865439163, Loc Found? false
+[18-05-2017-06-40-39],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.3782799841899909,NaN,6.504387865439163, Loc Found? false
+[18-05-2017-06-41-50],uID: Pisces, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.558271027362745,4.500449026688044,1.2120604761905756, Loc Found? false
+[18-05-2017-06-41-50],uID: Pisces, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.558271027362745,4.500449026688044,1.2120604761905756, Loc Found? false
+[18-05-2017-06-41-50],uID: Pisces, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.558271027362745,4.500449026688044,1.2120604761905756, Loc Found? false
+[18-05-2017-06-41-50],uID: Pisces, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.558271027362745,4.500449026688044,1.2120604761905756, Loc Found? false
+[18-05-2017-06-42-03],uID: Cedric, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 2.104308896655107,NaN,2.5620685116861224, Loc Found? false
+[18-05-2017-06-42-03],uID: Cedric, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 2.104308896655107,NaN,2.5620685116861224, Loc Found? false
+[18-05-2017-06-42-03],uID: Cedric, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 2.104308896655107,NaN,2.5620685116861224, Loc Found? false
+[18-05-2017-06-42-03],uID: Cedric, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 2.104308896655107,NaN,2.5620685116861224, Loc Found? false
+[18-05-2017-06-41-47],uID: babs, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6724245942825544,1.3918716787866878,NaN, Loc Found? false
+[18-05-2017-06-41-47],uID: babs, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6724245942825544,1.3918716787866878,NaN, Loc Found? false
+[18-05-2017-06-41-47],uID: babs, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6724245942825544,1.3918716787866878,NaN, Loc Found? false
+[18-05-2017-06-41-47],uID: babs, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6724245942825544,1.3918716787866878,NaN, Loc Found? false
+[18-05-2017-06-42-30],uID: simon, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN,2.7332436001808276,1.4569449621562256, Loc Found? false
+[18-05-2017-06-42-30],uID: simon, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN,2.7332436001808276,1.4569449621562256, Loc Found? false
+[18-05-2017-06-42-30],uID: simon, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN,2.7332436001808276,1.4569449621562256, Loc Found? false
+[18-05-2017-06-42-30],uID: simon, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN,2.7332436001808276,1.4569449621562256, Loc Found? false
+[18-05-2017-06-42-38],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.4739336197212003,6.8409633548328,3.6880624964572988, Loc Found? false
+[18-05-2017-06-42-38],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.4739336197212003,6.8409633548328,3.6880624964572988, Loc Found? false
+[18-05-2017-06-42-38],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.4739336197212003,6.8409633548328,3.6880624964572988, Loc Found? false
+[18-05-2017-06-42-38],uID: Justin Seagull, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.4739336197212003,6.8409633548328,3.6880624964572988, Loc Found? false
+[18-05-2017-06-43-31],uID: Pisces, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.521499029021537,NaN,8.852801369850468, Loc Found? false
+[18-05-2017-06-43-31],uID: Pisces, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.521499029021537,NaN,8.852801369850468, Loc Found? false
+[18-05-2017-06-43-31],uID: Pisces, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.521499029021537,NaN,8.852801369850468, Loc Found? false
+[18-05-2017-06-43-31],uID: Pisces, Estimated Proximity: FAR,IMMEDIATE,FAR, Estimated Location Values: 4.521499029021537,NaN,8.852801369850468, Loc Found? false
+[18-05-2017-06-43-46],uID: Cedric, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2313797239913546,3.207390107043901,3.461523223819012, Loc Found? false
+[18-05-2017-06-43-46],uID: Cedric, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2313797239913546,3.207390107043901,3.461523223819012, Loc Found? false
+[18-05-2017-06-43-46],uID: Cedric, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2313797239913546,3.207390107043901,3.461523223819012, Loc Found? false
+[18-05-2017-06-43-46],uID: Cedric, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2313797239913546,3.207390107043901,3.461523223819012, Loc Found? false
+[18-05-2017-06-43-27],uID: babs, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.8050933903201554,1.5171326288662534,1.3281688820344724, Loc Found? false
+[18-05-2017-06-43-28],uID: babs, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.8050933903201554,1.5171326288662534,1.3281688820344724, Loc Found? false
+[18-05-2017-06-43-28],uID: babs, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.8050933903201554,1.5171326288662534,1.3281688820344724, Loc Found? false
+[18-05-2017-06-43-28],uID: babs, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: 1.8050933903201554,1.5171326288662534,1.3281688820344724, Loc Found? false
+[18-05-2017-06-44-31],uID: Justin Seagull, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.817102084556715,3.70082829104553,1.4957877731206213, Loc Found? false
+[18-05-2017-06-44-31],uID: Justin Seagull, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.817102084556715,3.70082829104553,1.4957877731206213, Loc Found? false
+[18-05-2017-06-44-31],uID: Justin Seagull, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.817102084556715,3.70082829104553,1.4957877731206213, Loc Found? false
+[18-05-2017-06-44-31],uID: Justin Seagull, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 5.817102084556715,3.70082829104553,1.4957877731206213, Loc Found? false
+[18-05-2017-06-46-06],uID: Pisces, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 22.597727200795532,10.221686655672706,7.450423451236902, Loc Found? false
+[18-05-2017-06-46-06],uID: Pisces, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 22.597727200795532,10.221686655672706,7.450423451236902, Loc Found? false
+[18-05-2017-06-46-06],uID: Pisces, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 22.597727200795532,10.221686655672706,7.450423451236902, Loc Found? false
+[18-05-2017-06-46-06],uID: Pisces, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 22.597727200795532,10.221686655672706,7.450423451236902, Loc Found? false
+[18-05-2017-06-48-59],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.59551580694721,5.372686648687509,1.72619586660187, Loc Found? false
+[18-05-2017-06-48-59],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.59551580694721,5.372686648687509,1.72619586660187, Loc Found? false
+[18-05-2017-06-48-59],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.59551580694721,5.372686648687509,1.72619586660187, Loc Found? false
+[18-05-2017-06-48-59],uID: , Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 8.59551580694721,5.372686648687509,1.72619586660187, Loc Found? false
+[18-05-2017-06-56-51],uID: Angelica Zalameda, Estimated Proximity: IMMEDIATE,FAR,FAR, Estimated Location Values: NaN,4.259892861471971,2.869053178166395, Loc Found? false
+[18-05-2017-06-56-51],uID: Angelica Zalameda, Estimated Proximity: IMMEDIATE,FAR,FAR, Estimated Location Values: NaN,4.259892861471971,2.869053178166395, Loc Found? false
+[18-05-2017-06-56-51],uID: Angelica Zalameda, Estimated Proximity: IMMEDIATE,FAR,FAR, Estimated Location Values: NaN,4.259892861471971,2.869053178166395, Loc Found? false
+[18-05-2017-06-56-51],uID: Angelica Zalameda, Estimated Proximity: IMMEDIATE,FAR,FAR, Estimated Location Values: NaN,4.259892861471971,2.869053178166395, Loc Found? false
+[18-05-2017-06-57-33],uID: jess, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: NaN,2.738222593160545,1.1513859418701338, Loc Found? false
+[18-05-2017-06-57-34],uID: jess, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: NaN,2.738222593160545,1.1513859418701338, Loc Found? false
+[18-05-2017-06-57-34],uID: jess, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: NaN,2.738222593160545,1.1513859418701338, Loc Found? false
+[18-05-2017-06-57-34],uID: jess, Estimated Proximity: NEAR,NEAR,NEAR, Estimated Location Values: NaN,2.738222593160545,1.1513859418701338, Loc Found? false
+[18-05-2017-06-58-09],uID: richard, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.364521268444903,NaN,5.304882372743276, Loc Found? false
+[18-05-2017-06-58-09],uID: richard, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.364521268444903,NaN,5.304882372743276, Loc Found? false
+[18-05-2017-06-58-09],uID: richard, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.364521268444903,NaN,5.304882372743276, Loc Found? false
+[18-05-2017-06-58-09],uID: richard, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 4.364521268444903,NaN,5.304882372743276, Loc Found? false
+[18-05-2017-06-58-32],uID: Angelica Zalameda, Estimated Proximity: FAR,NEAR,IMMEDIATE, Estimated Location Values: 4.441407324050253,1.6210965191582223,NaN, Loc Found? false
+[18-05-2017-06-58-32],uID: Angelica Zalameda, Estimated Proximity: FAR,NEAR,IMMEDIATE, Estimated Location Values: 4.441407324050253,1.6210965191582223,NaN, Loc Found? false
+[18-05-2017-06-58-32],uID: Angelica Zalameda, Estimated Proximity: FAR,NEAR,IMMEDIATE, Estimated Location Values: 4.441407324050253,1.6210965191582223,NaN, Loc Found? false
+[18-05-2017-06-58-32],uID: Angelica Zalameda, Estimated Proximity: FAR,NEAR,IMMEDIATE, Estimated Location Values: 4.441407324050253,1.6210965191582223,NaN, Loc Found? false
+[18-05-2017-06-59-14],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN2.555818066650887,NaN, Loc Found? false
+[18-05-2017-06-59-14],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN2.555818066650887,NaN, Loc Found? false
+[18-05-2017-06-59-14],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN2.555818066650887,NaN, Loc Found? false
+[18-05-2017-06-59-14],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN2.555818066650887,NaN, Loc Found? false
+[18-05-2017-06-59-50],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2408673919089852,6.608731880748564,5.294014375815923, Loc Found? false
+[18-05-2017-06-59-50],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2408673919089852,6.608731880748564,5.294014375815923, Loc Found? false
+[18-05-2017-06-59-50],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2408673919089852,6.608731880748564,5.294014375815923, Loc Found? false
+[18-05-2017-06-59-50],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.2408673919089852,6.608731880748564,5.294014375815923, Loc Found? false
+[18-05-2017-07-00-13],uID: Angelica Zalameda, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6772120613794783,3.1499746704042613,NaN, Loc Found? false
+[18-05-2017-07-00-13],uID: Angelica Zalameda, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6772120613794783,3.1499746704042613,NaN, Loc Found? false
+[18-05-2017-07-00-13],uID: Angelica Zalameda, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6772120613794783,3.1499746704042613,NaN, Loc Found? false
+[18-05-2017-07-00-13],uID: Angelica Zalameda, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 3.6772120613794783,3.1499746704042613,NaN, Loc Found? false
+[18-05-2017-07-00-25],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.938492870396114,NaN,4.477150008198427, Loc Found? false
+[18-05-2017-07-00-25],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.938492870396114,NaN,4.477150008198427, Loc Found? false
+[18-05-2017-07-00-25],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.938492870396114,NaN,4.477150008198427, Loc Found? false
+[18-05-2017-07-00-25],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 3.938492870396114,NaN,4.477150008198427, Loc Found? false
+[18-05-2017-07-00-55],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN1.1867108609510213,NaN, Loc Found? false
+[18-05-2017-07-00-55],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN1.1867108609510213,NaN, Loc Found? false
+[18-05-2017-07-00-55],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN1.1867108609510213,NaN, Loc Found? false
+[18-05-2017-07-00-55],uID: jess, Estimated Proximity: IMMEDIATE,NEAR,NEAR, Estimated Location Values: NaN1.1867108609510213,NaN, Loc Found? false
+[18-05-2017-07-01-31],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.021235502742823,6.920301575169363,4.944624825577773, Loc Found? false
+[18-05-2017-07-01-31],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.021235502742823,6.920301575169363,4.944624825577773, Loc Found? false
+[18-05-2017-07-01-31],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.021235502742823,6.920301575169363,4.944624825577773, Loc Found? false
+[18-05-2017-07-01-31],uID: richard, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 2.021235502742823,6.920301575169363,4.944624825577773, Loc Found? false
+[18-05-2017-07-01-54],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.2962225947978165,NaN,1.4482726717678098, Loc Found? false
+[18-05-2017-07-01-54],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.2962225947978165,NaN,1.4482726717678098, Loc Found? false
+[18-05-2017-07-01-54],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.2962225947978165,NaN,1.4482726717678098, Loc Found? false
+[18-05-2017-07-01-54],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.2962225947978165,NaN,1.4482726717678098, Loc Found? false
+[18-05-2017-07-02-07],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.9527440547732695,1.0247424605932194,5.57468722960379, Loc Found? false
+[18-05-2017-07-02-07],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.9527440547732695,1.0247424605932194,5.57468722960379, Loc Found? false
+[18-05-2017-07-02-07],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.9527440547732695,1.0247424605932194,5.57468722960379, Loc Found? loc4
+[18-05-2017-07-02-07],uID: anton, Estimated Proximity: FAR,NEAR,FAR, Estimated Location Values: 7.9527440547732695,1.0247424605932194,5.57468722960379, Loc Found? false
+[18-05-2017-07-02-36],uID: jess, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6121769462304472,NaNNaN, Loc Found? false
+[18-05-2017-07-02-36],uID: jess, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6121769462304472,NaNNaN, Loc Found? false
+[18-05-2017-07-02-36],uID: jess, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6121769462304472,NaNNaN, Loc Found? false
+[18-05-2017-07-02-36],uID: jess, Estimated Proximity: NEAR,NEAR,IMMEDIATE, Estimated Location Values: 1.6121769462304472,NaNNaN, Loc Found? false
+[18-05-2017-07-03-12],uID: richard, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.751468250997844,5.78410919394471,2.8259228327338453, Loc Found? false
+[18-05-2017-07-03-13],uID: richard, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.751468250997844,5.78410919394471,2.8259228327338453, Loc Found? false
+[18-05-2017-07-03-13],uID: richard, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.751468250997844,5.78410919394471,2.8259228327338453, Loc Found? false
+[18-05-2017-07-03-13],uID: richard, Estimated Proximity: FAR,FAR,NEAR, Estimated Location Values: 2.751468250997844,5.78410919394471,2.8259228327338453, Loc Found? false
+[18-05-2017-07-03-34],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.373356889229125,NaN,2.5544802449520194, Loc Found? false
+[18-05-2017-07-03-34],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.373356889229125,NaN,2.5544802449520194, Loc Found? false
+[18-05-2017-07-03-34],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.373356889229125,NaN,2.5544802449520194, Loc Found? false
+[18-05-2017-07-03-34],uID: Angelica Zalameda, Estimated Proximity: FAR,IMMEDIATE,NEAR, Estimated Location Values: 5.373356889229125,NaN,2.5544802449520194, Loc Found? false
+[18-05-2017-07-04-09],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7541373143089969,7.204297772105576,8.79530170448723, Loc Found? false
+[18-05-2017-07-04-09],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7541373143089969,7.204297772105576,8.79530170448723, Loc Found? false
+[18-05-2017-07-04-09],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7541373143089969,7.204297772105576,8.79530170448723, Loc Found? false
+[18-05-2017-07-04-09],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.7541373143089969,7.204297772105576,8.79530170448723, Loc Found? false
+[18-05-2017-07-04-17],uID: jess, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.3232105811250163,NaNNaN, Loc Found? false
+[18-05-2017-07-04-17],uID: jess, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.3232105811250163,NaNNaN, Loc Found? false
+[18-05-2017-07-04-17],uID: jess, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.3232105811250163,NaNNaN, Loc Found? false
+[18-05-2017-07-04-17],uID: jess, Estimated Proximity: NEAR,IMMEDIATE,NEAR, Estimated Location Values: 1.3232105811250163,NaNNaN, Loc Found? false
+[18-05-2017-07-04-54],uID: richard, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.866001487830478,3.8596012596189295,3.2649624910874437, Loc Found? false
+[18-05-2017-07-04-54],uID: richard, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.866001487830478,3.8596012596189295,3.2649624910874437, Loc Found? false
+[18-05-2017-07-04-54],uID: richard, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.866001487830478,3.8596012596189295,3.2649624910874437, Loc Found? loc3
+[18-05-2017-07-04-54],uID: richard, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 7.866001487830478,3.8596012596189295,3.2649624910874437, Loc Found? loc3
+[18-05-2017-07-05-14],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 2.466698093024712,2.0645923998800204,3.5134922139604474, Loc Found? false
+[18-05-2017-07-05-15],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 2.466698093024712,2.0645923998800204,3.5134922139604474, Loc Found? false
+[18-05-2017-07-05-15],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 2.466698093024712,2.0645923998800204,3.5134922139604474, Loc Found? false
+[18-05-2017-07-05-15],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 2.466698093024712,2.0645923998800204,3.5134922139604474, Loc Found? false
+[18-05-2017-07-05-51],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.815421854328829,11.247722816051782,9.501994001608987, Loc Found? false
+[18-05-2017-07-05-51],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.815421854328829,11.247722816051782,9.501994001608987, Loc Found? false
+[18-05-2017-07-05-51],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.815421854328829,11.247722816051782,9.501994001608987, Loc Found? false
+[18-05-2017-07-05-51],uID: anton, Estimated Proximity: NEAR,FAR,FAR, Estimated Location Values: 1.815421854328829,11.247722816051782,9.501994001608987, Loc Found? false
+[18-05-2017-07-06-55],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.3454073272274125,1.6595278791625192,3.871337822121025, Loc Found? false
+[18-05-2017-07-06-55],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.3454073272274125,1.6595278791625192,3.871337822121025, Loc Found? false
+[18-05-2017-07-06-55],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.3454073272274125,1.6595278791625192,3.871337822121025, Loc Found? false
+[18-05-2017-07-06-55],uID: Angelica Zalameda, Estimated Proximity: NEAR,NEAR,FAR, Estimated Location Values: 1.3454073272274125,1.6595278791625192,3.871337822121025, Loc Found? false
+[18-05-2017-07-07-33],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3881566502304787,8.385962061473169,3.0338765972762074, Loc Found? false
+[18-05-2017-07-07-33],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3881566502304787,8.385962061473169,3.0338765972762074, Loc Found? false
+[18-05-2017-07-07-33],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3881566502304787,8.385962061473169,3.0338765972762074, Loc Found? false
+[18-05-2017-07-07-33],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 3.3881566502304787,8.385962061473169,3.0338765972762074, Loc Found? false
+[18-05-2017-07-09-15],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.17753236134524,5.277052632904641,5.226703416781518, Loc Found? false
+[18-05-2017-07-09-16],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.17753236134524,5.277052632904641,5.226703416781518, Loc Found? false
+[18-05-2017-07-09-16],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.17753236134524,5.277052632904641,5.226703416781518, Loc Found? loc3
+[18-05-2017-07-09-16],uID: anton, Estimated Proximity: FAR,FAR,FAR, Estimated Location Values: 6.17753236134524,5.277052632904641,5.226703416781518, Loc Found? loc3
